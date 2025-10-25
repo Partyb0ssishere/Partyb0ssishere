@@ -15,7 +15,7 @@ Currently I'm working on my CEF Fonts series.
 [Learn more | 进一步了解: CEF Fonts Mathematique](https://github.com/Partyb0ssishere/cef-fonts-mathematique)
 
 ### Working in Progress 正在做  
-**CEF Fonts ?????** *(The name is to be decided 名字还没想好)* -- Font containing 6 writing systems and supporting many languages | 包含6种书写系统，支持多种语言的字体  
+**CEF Fonts ?????** *(The name is to be decided 名字还没想好)* -- A font containing 6 scripts and supporting many languages | 包含6种文字，支持多种语言的字体  
 > E: Link does not exist | 链接不存在
 
 **CEF Fonts CJK Pro** -- Enhanced version of CEF Fonts CJK | CEF Fonts CJK 的加强版  
